@@ -12,13 +12,13 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=aa82e7d4f03061f2144a2f4be22f2e2210d42
 #EXTINF:-1, tvg-id="104" tvg-name="La Liga TV Bar 2" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="plex" La Liga TV Bar 2
 http://localhost:6878/ace/getstream?infohash=9848d62316c4dbfa6c05633dd3eb2dc17a08a586
 
-#EXTINF:-1, tvg-id="105" tvg-name="DAZN LaLiga" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN LaLiga" group-title="plex" DAZN LaLiga
+#EXTINF:-1, tvg-id="105" tvg-name="DAZN LaLiga" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN LaLiga 2" group-title="plex" DAZN LaLiga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ec29289b0b14756e686c03a501bae1efa05be70c
 
-#EXTINF:-1, tvg-id="106" tvg-name="DAZN LaLiga" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN LaLiga" group-title="plex" DAZN LaLiga
+#EXTINF:-1, tvg-id="106" tvg-name="DAZN LaLiga" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN LaLiga 2" group-title="plex" DAZN LaLiga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=75251ba975132ec9a202806ba5bf606e87280c96
 
-#EXTINF:-1, tvg-id="107" tvg-name="DAZN La Liga 2" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN LaLiga 2" group-title="plex" DAZN La Liga 2
+#EXTINF:-1, tvg-id="107" tvg-name="DAZN La Liga 2" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN LaLiga 2 HD" group-title="plex" DAZN La Liga 2
 http://localhost:6878/ace/getstream?infohash=cc8c238d349438517544884e25eb4b0b163e90d3
 
 #EXTINF:-1, tvg-id="108" tvg-name="DAZN 1" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN 1" group-title="plex" DAZN 1
@@ -45,16 +45,16 @@ http://localhost:6878/ace/getstream?infohash=d0a5eb107ed5d70f542e7483e2d0f9068b1
 #EXTINF:-1, tvg-id="115" tvg-name="DAZN 2 Bar HD [de]" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="plex" DAZN 2 Bar HD [de]
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="116" tvg-name="M+ Liga de Campeones" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/M+ Liga de Campeones 1" group-title="plex" M+ Liga de Campeones
+#EXTINF:-1, tvg-id="116" tvg-name="M+ Liga de Campeones" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/M+ Liga de Campeones 1 HD" group-title="plex" M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0a26e20f39845e928411e09a124374fccb6e1478
 
-#EXTINF:-1, tvg-id="117" tvg-name="M+ Liga de Campeones 2" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/M+ Liga de Campeones 1" group-title="plex" M+ Liga de Campeones 2
+#EXTINF:-1, tvg-id="117" tvg-name="M+ Liga de Campeones 2" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/M+ Liga de Campeones 1 HD" group-title="plex" M+ Liga de Campeones 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c070cdb701fc46bb79d17568d99fc64620443d63
 
-#EXTINF:-1, tvg-id="118" tvg-name="M+ Liga de Campeones 3" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/M+ Liga de Campeones 1" group-title="plex" M+ Liga de Campeones 3
+#EXTINF:-1, tvg-id="118" tvg-name="M+ Liga de Campeones 3" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/M+ Liga de Campeones 1 HD" group-title="plex" M+ Liga de Campeones 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=3618edda333dad5374ac2c801f5f14483934b97d
 
-#EXTINF:-1, tvg-id="119" tvg-name="M+ Deportes" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/M+ Deportes" group-title="plex" M+ Deportes
+#EXTINF:-1, tvg-id="119" tvg-name="M+ Deportes" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/M+ Deportes 1" group-title="plex" M+ Deportes
 http://127.0.0.1:6878/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39879
 
 #EXTINF:-1, tvg-id="120" tvg-name="M+ Deportes 2" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/M+ Deportes 1" group-title="plex" M+ Deportes 2
@@ -66,7 +66,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=d03c13b6723f66155d7a0df3692a3b073fe63
 #EXTINF:-1, tvg-id="122" tvg-name="Movistar Plus+" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Movistar Plus+ 2" group-title="plex" Movistar Plus+
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
-#EXTINF:-1, tvg-id="123" tvg-name="La Liga Hypermotion TV HD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="plex" La Liga Hypermotion TV HD
+#EXTINF:-1, tvg-id="123" tvg-name="La Liga Hypermotion TV HD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/LaLiga TV Hypermotion 2 HD" group-title="plex" La Liga Hypermotion TV HD
 http://localhost:6878/ace/getstream?infohash=4c81dacfe639d74722d0c26a4f6a4f2dfebfd29c
 
 #EXTINF:-1, tvg-id="124" tvg-name="La 1 HD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/La 1 HD" group-title="plex" La 1 HD
@@ -87,7 +87,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=a461065f6e9b32ffadd01a53e56128dc06e68
 #EXTINF:-1, tvg-id="129" tvg-name="Caracol" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="plex" Caracol
 http://127.0.0.1:6878/ace/manifest.m3u8?id=51fd6e83b8be5ac66a84b01232be228c12459abd
 
-#EXTINF:-1, tvg-id="130" tvg-name="Sky Sports Main Event UK" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="plex" Sky Sports Main Event UK
+#EXTINF:-1, tvg-id="130" tvg-name="Sky Sports Main Event UK" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Sky Sport Main Event" group-title="plex" Sky Sports Main Event UK
 http://127.0.0.1:6878/ace/manifest.m3u8?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
 #EXTINF:-1, tvg-id="131" tvg-name="Sky Sports Premier League" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Sky Sport Premier League" group-title="plex" Sky Sports Premier League
