@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="1" tvg-name="M+ LALIGA FHD " tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" M+ LALIGA FHD 
+#EXTINF:-1, tvg-id="1" tvg-name="M+ LALIGA FHD #####" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" M+ LALIGA FHD #####
 http://127.0.0.1:6878/ace/getstream?id=
 
 #EXTINF:-1, tvg-id="2" tvg-name="LALIGA TV BAR HEVC" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" LALIGA TV BAR HEVC
@@ -27,10 +27,10 @@ http://127.0.0.1:6878/ace/getstream?id=
 #EXTINF:-1, tvg-id="9" tvg-name="DAZN LALIGA 2 HD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" DAZN LALIGA 2 HD
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="10" tvg-name="DAZN BAR 1 FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN 1 HD" group-title="jellyfin" DAZN BAR 1 FHD
+#EXTINF:-1, tvg-id="10" tvg-name="DAZN BAR 1 FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" DAZN BAR 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="11" tvg-name="DAZN BAR 2 FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN 2 HD" group-title="jellyfin" DAZN BAR 2 FHD
+#EXTINF:-1, tvg-id="11" tvg-name="DAZN BAR 2 FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" DAZN BAR 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=
 
 #EXTINF:-1, tvg-id="12" tvg-name="M.LCAMPEON FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" M.LCAMPEON FHD
@@ -75,10 +75,10 @@ http://localhost:6879/ace/getstream?infohash=97ee1fc21dbe40474d55f956e3028172580
 #EXTINF:-1, tvg-id="25" tvg-name="DAZN 2 HD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN 1 HD" group-title="jellyfin" DAZN 2 HD
 http://localhost:6879/ace/getstream?infohash=557d64b54659e7c7fbbc456b9ef47617ed2b9631
 
-#EXTINF:-1, tvg-id="26" tvg-name="DAZN 3 FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN 1 HD" group-title="jellyfin" DAZN 3 FHD
+#EXTINF:-1, tvg-id="26" tvg-name="DAZN 3 FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN 3 HD" group-title="jellyfin" DAZN 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="27" tvg-name="DAZN 4 FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN 1 HD" group-title="jellyfin" DAZN 4 FHD
+#EXTINF:-1, tvg-id="27" tvg-name="DAZN 4 FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN 4 HD" group-title="jellyfin" DAZN 4 FHD
 http://127.0.0.1:6878/ace/getstream?id=
 
 #EXTINF:-1, tvg-id="28" tvg-name="LALIGA HYPERMOTION TV ᴴᴰ ᵃᵐᶻ" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" LALIGA HYPERMOTION TV ᴴᴰ ᵃᵐᶻ
