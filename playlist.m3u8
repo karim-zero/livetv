@@ -72,7 +72,7 @@ http://127.0.0.1:6878/ace/getstream?id=
 #EXTINF:-1, tvg-id="24" tvg-name="DAZN 1 HD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN 1 HD" group-title="jellyfin" DAZN 1 HD
 http://localhost:6879/ace/getstream?infohash=97ee1fc21dbe40474d55f956e302817258049a2b
 
-#EXTINF:-1, tvg-id="25" tvg-name="DAZN 2 HD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN 2 HD" group-title="jellyfin" DAZN 2 HD
+#EXTINF:-1, tvg-id="25" tvg-name="DAZN 2 HD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN 1 HD" group-title="jellyfin" DAZN 2 HD
 http://localhost:6879/ace/getstream?infohash=557d64b54659e7c7fbbc456b9ef47617ed2b9631
 
 #EXTINF:-1, tvg-id="26" tvg-name="DAZN 3 FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN 3 HD" group-title="jellyfin" DAZN 3 FHD
