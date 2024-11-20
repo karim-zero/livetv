@@ -1,72 +1,72 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="1" tvg-name="M+ LALIGA FHD " tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" M+ LALIGA FHD 
+#EXTINF:-1, tvg-id="1" tvg-name="M+ LALIGA FHD " tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" M+ LALIGA FHD 
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="2" tvg-name="LALIGA TV BAR HEVC" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" LALIGA TV BAR HEVC
+#EXTINF:-1, tvg-id="2" tvg-name="LALIGA TV BAR HEVC" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" LALIGA TV BAR HEVC
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="3" tvg-name="M.LALIGA HEVC" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" M.LALIGA HEVC
+#EXTINF:-1, tvg-id="3" tvg-name="M.LALIGA HEVC" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" M.LALIGA HEVC
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="4" tvg-name="M.LALIGA 2 FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" M.LALIGA 2 FHD
+#EXTINF:-1, tvg-id="4" tvg-name="M.LALIGA 2 FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" M.LALIGA 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="5" tvg-name="LALIGA EA SPORTS 1 ᴴᴰ ᵃᵐᶻ" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" LALIGA EA SPORTS 1 ᴴᴰ ᵃᵐᶻ
+#EXTINF:-1, tvg-id="5" tvg-name="LALIGA EA SPORTS 1 ᴴᴰ ᵃᵐᶻ" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" LALIGA EA SPORTS 1 ᴴᴰ ᵃᵐᶻ
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="6" tvg-name="LALIGA EA SPORTS 2 ᴴᴰ ᵃᵐᶻ" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" LALIGA EA SPORTS 2 ᴴᴰ ᵃᵐᶻ
+#EXTINF:-1, tvg-id="6" tvg-name="LALIGA EA SPORTS 2 ᴴᴰ ᵃᵐᶻ" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" LALIGA EA SPORTS 2 ᴴᴰ ᵃᵐᶻ
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="7" tvg-name="LALIGA EA SPORTS 4 ᴴᴰ ᵃᵐᶻ" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" LALIGA EA SPORTS 4 ᴴᴰ ᵃᵐᶻ
+#EXTINF:-1, tvg-id="7" tvg-name="LALIGA EA SPORTS 4 ᴴᴰ ᵃᵐᶻ" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" LALIGA EA SPORTS 4 ᴴᴰ ᵃᵐᶻ
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="8" tvg-name="DAZN LALIGA HD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" DAZN LALIGA HD
+#EXTINF:-1, tvg-id="8" tvg-name="DAZN LALIGA HD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" DAZN LALIGA HD
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="9" tvg-name="DAZN LALIGA 2 HD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" DAZN LALIGA 2 HD
+#EXTINF:-1, tvg-id="9" tvg-name="DAZN LALIGA 2 HD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" DAZN LALIGA 2 HD
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="10" tvg-name="DAZN BAR 1 FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" DAZN BAR 1 FHD
+#EXTINF:-1, tvg-id="10" tvg-name="DAZN BAR 1 FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN 1 HD" group-title="jellyfin" DAZN BAR 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="11" tvg-name="DAZN BAR 2 FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" DAZN BAR 2 FHD
+#EXTINF:-1, tvg-id="11" tvg-name="DAZN BAR 2 FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN 2 HD" group-title="jellyfin" DAZN BAR 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="12" tvg-name="M.LCAMPEON FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" M.LCAMPEON FHD
+#EXTINF:-1, tvg-id="12" tvg-name="M.LCAMPEON FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" M.LCAMPEON FHD
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="13" tvg-name="M.LCAMPEON 2 FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" M.LCAMPEON 2 FHD
+#EXTINF:-1, tvg-id="13" tvg-name="M.LCAMPEON 2 FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" M.LCAMPEON 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="14" tvg-name="M.LCAMPEON 3 FHD (SOLO EVENTOS)" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" M.LCAMPEON 3 FHD (SOLO EVENTOS)
+#EXTINF:-1, tvg-id="14" tvg-name="M.LCAMPEON 3 FHD (SOLO EVENTOS)" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" M.LCAMPEON 3 FHD (SOLO EVENTOS)
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="15" tvg-name="M.LCAMPEON 4 FHD (SOLO EVENTOS)" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" M.LCAMPEON 4 FHD (SOLO EVENTOS)
+#EXTINF:-1, tvg-id="15" tvg-name="M.LCAMPEON 4 FHD (SOLO EVENTOS)" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" M.LCAMPEON 4 FHD (SOLO EVENTOS)
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="16" tvg-name="SKY SPORTS MAIN EVENTS UHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" SKY SPORTS MAIN EVENTS UHD
+#EXTINF:-1, tvg-id="16" tvg-name="SKY SPORTS MAIN EVENTS UHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" SKY SPORTS MAIN EVENTS UHD
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="17" tvg-name="SKY SPORTS UHD [EVENT]" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" SKY SPORTS UHD [EVENT]
+#EXTINF:-1, tvg-id="17" tvg-name="SKY SPORTS UHD [EVENT]" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" SKY SPORTS UHD [EVENT]
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="18" tvg-name="SKY SPORTS 1 UHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" SKY SPORTS 1 UHD
+#EXTINF:-1, tvg-id="18" tvg-name="SKY SPORTS 1 UHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" SKY SPORTS 1 UHD
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="19" tvg-name="SKY SPORTS 2 UHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" SKY SPORTS 2 UHD
+#EXTINF:-1, tvg-id="19" tvg-name="SKY SPORTS 2 UHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" SKY SPORTS 2 UHD
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="20" tvg-name="NOW SPORTS (EPL) UHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" NOW SPORTS (EPL) UHD
+#EXTINF:-1, tvg-id="20" tvg-name="NOW SPORTS (EPL) UHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" NOW SPORTS (EPL) UHD
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="21" tvg-name="ELEVEN SPORT 1 UHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" ELEVEN SPORT 1 UHD
+#EXTINF:-1, tvg-id="21" tvg-name="ELEVEN SPORT 1 UHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" ELEVEN SPORT 1 UHD
 http://127.0.0.1:6879/ace/manifest.m3u8?id=36cad67fed5a739757a9db844a551aa845a8d51b
 
-#EXTINF:-1, tvg-id="22" tvg-name="DAZN LA LIGA TV UHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" DAZN LA LIGA TV UHD
+#EXTINF:-1, tvg-id="22" tvg-name="DAZN LA LIGA TV UHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" DAZN LA LIGA TV UHD
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="23" tvg-name="LIGA CAMPEONES UHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" LIGA CAMPEONES UHD
+#EXTINF:-1, tvg-id="23" tvg-name="LIGA CAMPEONES UHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" LIGA CAMPEONES UHD
 http://127.0.0.1:6878/ace/getstream?id=
 
 #EXTINF:-1, tvg-id="24" tvg-name="DAZN 1 HD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN 1 HD" group-title="jellyfin" DAZN 1 HD
@@ -75,20 +75,20 @@ http://localhost:6879/ace/getstream?infohash=97ee1fc21dbe40474d55f956e3028172580
 #EXTINF:-1, tvg-id="25" tvg-name="DAZN 2 HD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN 1 HD" group-title="jellyfin" DAZN 2 HD
 http://localhost:6879/ace/getstream?infohash=557d64b54659e7c7fbbc456b9ef47617ed2b9631
 
-#EXTINF:-1, tvg-id="26" tvg-name="DAZN 3 FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN 3 HD" group-title="jellyfin" DAZN 3 FHD
+#EXTINF:-1, tvg-id="26" tvg-name="DAZN 3 FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN 1 HD" group-title="jellyfin" DAZN 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="27" tvg-name="DAZN 4 FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN 4 HD" group-title="jellyfin" DAZN 4 FHD
+#EXTINF:-1, tvg-id="27" tvg-name="DAZN 4 FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN 1 HD" group-title="jellyfin" DAZN 4 FHD
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="28" tvg-name="LALIGA HYPERMOTION TV ᴴᴰ ᵃᵐᶻ" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" LALIGA HYPERMOTION TV ᴴᴰ ᵃᵐᶻ
+#EXTINF:-1, tvg-id="28" tvg-name="LALIGA HYPERMOTION TV ᴴᴰ ᵃᵐᶻ" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" LALIGA HYPERMOTION TV ᴴᴰ ᵃᵐᶻ
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="29" tvg-name="R. MADRID TV FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" R. MADRID TV FHD
+#EXTINF:-1, tvg-id="29" tvg-name="R. MADRID TV FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" R. MADRID TV FHD
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="30" tvg-name="M.PLUS+ FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" M.PLUS+ FHD
+#EXTINF:-1, tvg-id="30" tvg-name="M.PLUS+ FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" M.PLUS+ FHD
 http://127.0.0.1:6878/ace/getstream?id=
 
-#EXTINF:-1, tvg-id="31" tvg-name="M.LA RESISTENCIA FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/Brazzers%20TV.png" group-title="jellyfin" M.LA RESISTENCIA FHD
+#EXTINF:-1, tvg-id="31" tvg-name="M.LA RESISTENCIA FHD" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/404.png" group-title="jellyfin" M.LA RESISTENCIA FHD
 http://127.0.0.1:6878/ace/getstream?id=
