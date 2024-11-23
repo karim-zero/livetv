@@ -1,22 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1, tvg-id="101" tvg-name="M+ LaLiga TV" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/M+ LaLiga TV.png" group-title="plex" M+ LaLiga TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=1969c27658d4c8333ab2c0670802546121a774a5
+http://127.0.0.1:6878/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
 
 #EXTINF:-1, tvg-id="102" tvg-name="M+ LaLiga TV" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/M+ LaLiga TV.png" group-title="plex" M+ LaLiga TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d3de78aebe544611a2347f54d5796bd87f16c92d
 
 #EXTINF:-1, tvg-id="103" tvg-name="M+ LaLiga TV" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/M+ LaLiga TV.png" group-title="plex" M+ LaLiga TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
+http://127.0.0.1:6878/ace/manifest.m3u8?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163
 
 #EXTINF:-1, tvg-id="104" tvg-name="La Liga TV Bar 2" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/LaLiga TV BAR 2.png" group-title="plex" La Liga TV Bar 2
 http://localhost:6878/ace/getstream?infohash=9848d62316c4dbfa6c05633dd3eb2dc17a08a586
 
 #EXTINF:-1, tvg-id="105" tvg-name="DAZN LaLiga" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN LaLiga.png" group-title="plex" DAZN LaLiga
-http://127.0.0.1:6878/ace/manifest.m3u8?id=ec29289b0b14756e686c03a501bae1efa05be70c
+http://127.0.0.1:6878/ace/manifest.m3u8?id=110d441ddc9713a7452588770d2bc85504672f47
 
 #EXTINF:-1, tvg-id="106" tvg-name="DAZN LaLiga" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN LaLiga.png" group-title="plex" DAZN LaLiga
-http://127.0.0.1:6878/ace/manifest.m3u8?id=75251ba975132ec9a202806ba5bf606e87280c96
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ec29289b0b14756e686c03a501bae1efa05be70c
 
 #EXTINF:-1, tvg-id="107" tvg-name="DAZN La Liga 2" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/DAZN LaLiga 2.png" group-title="plex" DAZN La Liga 2
 http://localhost:6878/ace/getstream?infohash=cc8c238d349438517544884e25eb4b0b163e90d3
@@ -55,7 +55,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=c070cdb701fc46bb79d17568d99fc64620443
 http://127.0.0.1:6878/ace/manifest.m3u8?id=3618edda333dad5374ac2c801f5f14483934b97d
 
 #EXTINF:-1, tvg-id="119" tvg-name="M+ Deportes" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/M+ Deportes.png" group-title="plex" M+ Deportes
-http://127.0.0.1:6878/ace/manifest.m3u8?id=3a74d9869b13e763476800740c6625e715a39879
+http://127.0.0.1:6878/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 
 #EXTINF:-1, tvg-id="120" tvg-name="M+ Deportes 2" tvg-logo="https://gitlab.blackbirdrecordings.com/cvzero89/livetv/-/raw/main/icon/M+ Deportes 2.png" group-title="plex" M+ Deportes 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7
